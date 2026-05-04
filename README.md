@@ -13,13 +13,6 @@
 📍 From Iran  
 🔥 Currently: Deep diving into Django & Django REST Framework
 
-📧 @imsinazn (GitHub)  
-📧 in/imsinazn (LinkedIn)  
-📧 @imsinazn (X)  
-📧 @imsinazn (Instagram)
-
-👥 5 followers · 3 following
-
 ---
 
 ## 🚀 What I'm Learning
@@ -76,6 +69,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imsinazn)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imsinazn)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/imsinazn)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imsinazn)
 
 ---
 
