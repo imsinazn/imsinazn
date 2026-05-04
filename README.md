@@ -56,10 +56,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsinazn&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsinazn&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsinazn&layout=compact&theme=dark)
-
 ---
 
 ## 📫 Connect With Me
