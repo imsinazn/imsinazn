@@ -2,8 +2,6 @@
 
 > On my way to become a Backend Developer with Django
 
-[![GitHub followers](https://img.shields.io/github/followers/imsinazn?label=Followers&style=social)](https://github.com/imsinazn)
-
 ---
 
 ## 👨‍💻 About Me
