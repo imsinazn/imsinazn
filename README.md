@@ -1,4 +1,5 @@
-# Sina | imsinazn
+# Hey there! I'm Sina 👋
+---
 
 ## 👨‍💻 About Me
 
