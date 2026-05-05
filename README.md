@@ -1,7 +1,5 @@
 # Sina | imsinazn
 
-> On my way to become a Backend Developer with Django
-
 ---
 
 ## 👨‍💻 About Me
