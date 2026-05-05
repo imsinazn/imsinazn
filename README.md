@@ -1,6 +1,5 @@
 ## Hey there! I'm Sina 👋
 
-
 ## 👨‍💻 About Me
 
 > On my way to become a Backend Developer with Django
