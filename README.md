@@ -17,7 +17,7 @@
 | Backend Framework | Django |
 | API Development | Django REST Framework |
 | Version Control | Git & GitHub |
-| Databases | SQLite → PostgreSQL |
+| Databases | SQLite & MySQL |
 
 ---
 
