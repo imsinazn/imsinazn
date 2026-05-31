@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-> On my way to become a Backend Developer with Django
+> On my way to become a Full-Stack Developer 🎯
 
 📍 From Iran  
 🔥 Currently: Deep diving into Django & Django REST Framework
@@ -15,6 +15,7 @@
 |------|------------|
 | Language | Python (Advanced, OOP, Problem Solving) |
 | Backend Framework | Django |
+| Javascript | jQuery |
 | API Development | Django REST Framework |
 | Version Control | Git & GitHub |
 | Databases | SQLite & MySQL |
@@ -27,7 +28,7 @@
 |---------|-------------|------|
 | Guess Game | Number guessing game with difficulty levels & scoring system | Python |
 | Blog (soon) | Full-featured blog with Django | Django, SQLite |
-| Task Manager API (soon) | Professional REST API for task management | DRF, PostgreSQL |
+| Task Manager API (soon) | Professional REST API for task management | DRF, MySQL |
 
 > More projects coming as I level up 🚀
 
